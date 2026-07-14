@@ -1,0 +1,15 @@
+com\spktopsis\repository\AlternatifRepository.class
+com\spktopsis\controller\TopsisController.class
+com\spktopsis\controller\AlternatifController.class
+com\spktopsis\model\Login.class
+com\spktopsis\repository\KriteriaRepository.class
+com\spktopsis\model\Penilaian.class
+com\spktopsis\repository\PenilaianRepository.class
+com\spktopsis\model\Alternatif.class
+com\spktopsis\model\Kriteria.class
+com\spktopsis\controller\KriteriaController.class
+com\spktopsis\SpkTopsisApplication.class
+com\spktopsis\repository\LoginRepository.class
+com\spktopsis\controller\PenilaianController.class
+com\spktopsis\controller\AuthController.class
+com\spktopsis\service\TopsisService.class

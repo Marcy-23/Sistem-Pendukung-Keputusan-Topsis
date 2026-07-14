@@ -1,0 +1,15 @@
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\model\Login.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\model\Alternatif.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\SpkTopsisApplication.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\controller\AuthController.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\repository\PenilaianRepository.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\model\Penilaian.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\service\TopsisService.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\controller\PenilaianController.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\repository\LoginRepository.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\controller\AlternatifController.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\repository\AlternatifRepository.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\controller\TopsisController.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\controller\KriteriaController.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\model\Kriteria.java
+C:\xampp\htdocs\SPK_TOPSIS\java-backend\src\main\java\com\spktopsis\repository\KriteriaRepository.java
