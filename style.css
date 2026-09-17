@@ -157,20 +157,17 @@ body,
   font-size: 14px;
   gap: 12px;
   transition: all 0.25s ease;
-  border-left: 4px solid transparent;
   margin-bottom: 4px;
 }
 
 .sidebar a:hover {
   background-color: rgba(255, 255, 255, 0.08);
   color: #fff;
-  border-left-color: var(--warna-aksen);
 }
 
 .sidebar a.aktif {
   background-color: rgba(47, 160, 132, 0.35);
   color: #fff;
-  border-left-color: var(--warna-aksen);
   font-weight: 600;
 }
 
@@ -206,7 +203,6 @@ body,
   flex-wrap: wrap;
   gap: 14px;
   box-shadow: var(--shadow-sm);
-  border-top: 4px solid var(--warna-sekunder);
 }
 
 .judul-halaman .teks-judul h2 {
@@ -368,13 +364,6 @@ body,
   text-align: left;
   font-weight: 600;
   font-size: 13px;
-}
-
-.tabel-data thead th:first-child {
-  border-top-left-radius: 10px;
-}
-.tabel-data thead th:last-child {
-  border-top-right-radius: 10px;
 }
 
 .tabel-data tbody td {
@@ -558,7 +547,6 @@ input[type="checkbox"] {
   border-radius: 12px;
   font-size: 14px;
   margin-bottom: 20px;
-  border-left: 5px solid var(--warna-aksen);
   font-weight: 500;
 }
 
@@ -569,7 +557,6 @@ input[type="checkbox"] {
   border-radius: 12px;
   font-size: 14px;
   margin-bottom: 20px;
-  border-left: 5px solid var(--warna-bahaya);
   font-weight: 500;
 }
 
@@ -580,13 +567,11 @@ input[type="checkbox"] {
   color: var(--teks-muted);
   font-size: 13px;
   margin-top: 32px;
-  border-top: 1px solid var(--border-warna);
 }
 
 /* --- LANGKAH PERHITUNGAN --- */
 .langkah-box {
   background-color: var(--bg-kartu);
-  border-left: 5px solid var(--warna-sekunder);
   border-radius: 0 12px 12px 0;
   padding: 18px 24px;
   margin-bottom: 24px;
@@ -727,7 +712,6 @@ body.halaman-login {
     box-shadow 0.25s;
   text-decoration: none;
   color: inherit;
-  border-top: 4px solid var(--warna-aksen);
 }
 
 .kartu-statistik:hover {
@@ -813,11 +797,9 @@ body.halaman-login {
   color: inherit;
   transition: all 0.25s ease;
   border: 1px solid var(--border-warna2);
-  border-top: 4px solid transparent;
 }
 
 .kartu-nav:hover {
-  border-top-color: var(--warna-aksen);
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(31, 111, 95, 0.1);
 }
